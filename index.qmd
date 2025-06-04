@@ -1,0 +1,58 @@
+---
+title: "Somali 101: Community Language Course"
+format: html
+---
+
+# Somali 101  
+### A Community-Centered Approach to Learning the Somali Language
+
+**© 2025 Liban Hussein**
+
+**Somali 101** is a grassroots language learning initiative designed to help learners of all ages reconnect with the Somali language in a structured, supportive, and culturally rooted way.
+
+Whether you're a heritage speaker looking to regain fluency, a complete beginner, or part of the older generation hoping to pass on your knowledge, this project is for you.  
+
+The curriculum emphasizes **real-world communication**, **intergenerational learning**, and **accessible resources**. All materials are offered openly to empower communities to teach and learn together.
+
+---
+
+## What You'll Find Here
+
+- 📚 **Vocabulary Lists** organized by theme and chapter  
+- 🗣️ **Dialogues and Conversation Practice** rooted in everyday situations  
+- 🧠 **Grammar Explanations** with simple examples  
+- 👨‍👩‍👧‍👦 **Activities for All Ages**, including ways for elders to share knowledge  
+- 🌍 **Cultural Notes and Somali Proverbs** to deepen language learning
+
+::: {.callout-note title="Muhimmadda Luuqadda Af Soomaaliga – Why Speaking the Somali Language Matters"}
+
+ This disconnection from their mother tongue often leads to a deeper estrangement from their heritage, stories, and identity — leaving cultural wisdom unspoken, and generational bonds weakened. Reclaiming the Somali language is not just about communication; it is an act of restoration, belonging, and pride.
+
+:::
+
+::: {.callout-tip title="A True Story"}
+
+Anoo yar dugsi qur'aanka dhiganaayo halkaan (Maraykanka), waxaan xasuustaa wiil iila dhigan jiray oo qosol iyo kaftan badnaa Ibraahim la yiraahdo. Casharkiisa markuu ka baxay, waa loo fasaxay inuu gurigiisa tago.  
+Hooyadiisa markeey timid dugsigii, wiilkii wuxuu yiri,  
+**“𝐌𝐚𝐜𝐚𝐥𝐢𝐧, 𝐦𝐚 𝐛𝐚𝐱𝐢 𝐤𝐚𝐫𝐚𝐚? 𝐇𝐨𝐨𝐲𝐚𝐝𝐞𝐞𝐲 𝐝𝐢𝐛𝐚𝐝𝐚 𝐮 𝐭𝐚𝐚𝐥𝐚𝐚.”**  
+Markaan maqlay, waan yaabay, waayo, qofna kama saxin af soomaaligiisa qaldanaa. Waxa laga rabay inuu dheho,  
+**“Macalin, ma baxi karaa? Hooyadeey banaankeey joogtaa, ama banaankeey igu sugeeysaa.”**  
+
+Maalintaas waxaa igu soo dhacay, “amaad adiga laftigaaga ku hadashay af soomaali qaldan sidii saaxiibkaaga Ibraahim?”  
+Maalintaas kaddib, waxaan asxaabteeyda iyo waalidkeeyga ka codsaday, haddii aad maqashiin anoo af soomaali qalad ah ku hadlaayo, igu qosol markii hore, kaddib na iga sax.  
+
+Sidaas daraadeed, waxaan helay buug laguu daabacay Xamar 1973-gii oo la yiraahdo **“𝐀𝐚𝐬𝐚𝐚𝐤𝐬𝐚 𝐍𝐚𝐱𝐰𝐚𝐡𝐚 𝐀𝐟 𝐒𝐨𝐨𝐦𝐚𝐚𝐥𝐢𝐠𝐚”**.  
+
+---
+
+Growing up, I had a childhood friend named **Ibrahim** who I’d see during our weekend school (madrasa/dugsi). He was really bright and had a great sense of humor too.  
+One day, after he passed his lesson, he was given permission to go home. Long story short, when he finished his lesson and saw his mom parked outside, he asked for permission to leave (in Somali) but did so in an interesting way. Instead of saying “my mom is outside”, he said something along the lines of **“my mom is located outside”**, using a word more suited to inanimate objects.
+
+I was surprised that no one corrected what sounded like an obvious grammatical mistake. But I felt even worse realizing I too had made similar mistakes and had never been corrected.  
+In that moment, I began to wonder — **was I also speaking Somali in a broken way, just like Ibrahim?**
+
+From that day forward, I asked my friends and family to gently correct me whenever I spoke Somali incorrectly — even laugh a little if needed, then help me improve.  
+
+Shortly after, I discovered a grammar book published in Mogadishu in 1973 titled  
+**“The Foundations of Somali Grammar (Aasaaska Naxwaha Af Soomaaliga)”**. Alhamdulillah I've been able to translate this work into English and hope this work benefits any English-speaking Somali who wants to understand the beauty and structure of our mother tongue.
+:::

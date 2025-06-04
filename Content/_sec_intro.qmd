@@ -1,0 +1,39 @@
+# Hordhac – Introduction {#sec-intro}
+
+This document serves as a comprehensive guide for learners of the Somali language, designed to support both self-study and community-based instruction.
+
+It is a central hub for:
+
+- **Structured study notes** organized by theme  
+- **Essential vocabulary** relevant to everyday life  
+- **Practice exercises** for speaking, listening, reading, and writing  
+- **Cultural and generational engagement**, including Somali proverbs and dialogues  
+- **Progress tracking** for students over the course of their learning
+
+The course is intended for learners at all levels and is structured as a series of thematic units that build gradually toward fluency. It is especially suited for summer intensives or weekend community classes.
+
+---
+
+::: {.callout-tip title="Why Somali Matters"}
+For many Somali youth raised in the West, the inability to speak their mother tongue is a source of quiet grief — a feeling of being **cut off from elders, stories, and the untranslatable richness of home**.  
+
+This course is not just about grammar and vocabulary. It’s about **reconnection**.  
+It’s about helping a generation **recover what was almost lost** — and proudly carry it forward.
+:::
+
+::: {.callout-note title="Oral Heritage Lives Through Language"}
+Somali has been called a **"nation of poets"** — not because every Somali writes books, but because the oral transmission of wisdom, history, and values has traditionally been **carried through language**.  
+Learning Somali is not just learning a language — it's entering a cultural archive.
+:::
+
+::: {.callout-caution title="Language and Identity"}
+> When a generation loses its tongue, it also loses its memory.  
+Preserving Somali is preserving identity — not only for individuals, but for families, mosques, and communities seeking continuity.
+:::
+
+::: {.callout-tip title="Somali Proverb"}
+> **Nin aan dhul marin, dhaayo ma leh.**  
+> *He who has not traveled has no eyes.*
+
+This widely quoted proverb reminds learners that **exposure expands understanding** — just as travel opens the eyes, **language opens doors** to culture, connection, and insight.
+:::

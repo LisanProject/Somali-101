@@ -1,0 +1,32 @@
+---
+title: Somali 101:Language and Culture Roadmap
+author:
+  - name: Liban Hussein
+    email: lisanproject25@gmail.com
+    roles: "Author & Instructor"
+    affiliation:
+      - name: Somali 101 – Lisan Project
+        url: https://github.com/LisanProject/Somali-101
+date: last-modified
+license: "CC BY-NC 4.0"
+copyright:
+  holder: "Liban Hussein"
+  year: 2025
+format:
+  html:
+    number-sections: true
+    toc: true
+    toc-expand: 2
+    self-contained: true
+  pdf:
+    toc: true
+    number-sections: true
+    papersize: A4
+    pdf-engine: xelatex
+    keep-tex: true
+---
+
+{{< include Content/_sec_intro.qmd >}}
+
+{{< include Content/_sec_Chapter1_Introductions.qmd >}}
+

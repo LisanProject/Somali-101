@@ -1,0 +1,15 @@
+{
+  "course-material.qmd": {
+    "course-material.html": "31da3fac",
+    "course-material.tex": "06b357be"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "f3aa48d1"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "1efdd65c"
+  },
+  "index.qmd": {
+    "index.html": "53df91d0"
+  }
+}

@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lisan Project"
+  navbar:
+    background: "#800000"
+    left:
+      - text: "<i class='bi bi-house-door'></i> Home"
+        href: index.qmd
+      - text: "Course Material"
+        href: course-material.qmd
+    right:
+      - icon: github
+        href: https://github.com/LisanProject/Somali-101
+        aria-label: GitHub
+
+  sidebar:
+    style: floating
+    collapse-level: 2   # Automatically collapses at level 2 headings
+    contents:
+      - section: "1 Introduction"
+        contents:
+          - course-material.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-copy: true
+    code-overflow: wrap
