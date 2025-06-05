@@ -1,0 +1,72 @@
+## Xarafka iyo Laxanka – Somali Alphabet and Pronunciation {#sec-alphabet-and-pronunciation}
+
+The Somali alphabet uses Latin script with 21 consonants and 5 vowels. It was standardized in 1972 and is written **left to right** like English. Pronunciation is phonetic, meaning words are typically pronounced as they are spelled.
+
+---
+
+## Xarafka Af Soomaaliga – The Somali Alphabet
+
+| Letter | Example    | Pronunciation Guide                                 |
+|--------|------------|------------------------------------------------------|
+| ʾ      | abuur     | Glottal stop — like a soft pause, similar to **ء** in Arabic |
+| B      | buug       | Like **b** in “book”                                 |
+| T      | tufaax     | Like **t** in “top”                                  |
+| J      | jeer       | Like **j** in “job”                                  |
+| KH     | khamiis    | Like Arabic **خ**, a rough “kh” from the throat      |
+| DH     | dhakhtar   | A **voiced retroflex** (tongue curled back), not found in English |
+| R      | roob       | Rolled or tapped **r**, like in Spanish              |
+| S      | subax      | Like **s** in “sun”                                  |
+| SH     | sheeko     | Like **sh** in “shoe”                                |
+| D      | dheer      | Like **d** in “door”                                 |
+| C      | cunto      | A voiced pharyngeal sound (like **ع** in Arabic)     |
+| G      | guri       | Like **g** in “go”                                   |
+| F      | furan      | Like **f** in “fun”                                  |
+| Q      | qalin      | Deep **k** sound from the throat (like **ق** in Arabic) |
+| K      | kabo       | Like **k** in “kite”                                 |
+| L      | lacag       | Like **l** in “light”                                |
+| M      | meel       | Like **m** in “man”                                  |
+| N      | naag       | Like **n** in “name”                                 |
+| W      | webi      | Like **w** in “water”                                |
+| H      | hoy        | Like **h** in “hat”                                  |
+| Y      | yar        | Like **y** in “yes”                                  |
+
+---
+
+## Shaqalka – Somali Vowels
+
+Somali has **5 vowels**: **A, E, I, O, U**, and each can be:
+
+- **Short** (e.g., *run* – "true/truth")
+- **Long** (e.g., *ruun* – "home/settlement")
+
+Long vowels are marked by doubling the letter (**aa, ee, ii, oo, uu**) and are pronounced **longer and more forcefully**. They can **change the meaning** of a word:
+
+| Short | Long | Meaning (Short vs. Long)              |
+|-------|------|----------------------------------------|
+| u     | uu   | *bur* = flour, *buur* = mountain       |
+| a     | aa   | *gal* = enter, *gaal* = non-Muslim     |
+| i     | ii   | *bir* = metal, *biir* = increase/multiply           |
+
+---
+
+::: {.callout-tip title="Listen and Repeat"}
+The Somali language is best learned **by listening**. Repeating after a native speaker helps train your ear to subtle sounds like **C**, **DH**, and **KH**.
+:::
+
+---
+
+## Laxanka iyo Dhawaaqa – Notes on Pronunciation
+
+- **ʾ (Glottal stop)** represents a **brief pause** or a sound from the throat, like a soft catch in the breath — similar to Arabic **ء** (hamzah).
+- **C** is not like the English “see” — it’s a voiced **pharyngeal** sound from the throat (like Arabic **ع**).
+- **DH** is pronounced by curling the tongue back (retroflex). This sound **does not exist in English**.
+- **KH** is like Arabic **خ** — a rough “kh” from the upper throat.
+- **Q** is pronounced **deep in the throat** — not like “k”, but more forceful (like Arabic **ق**).
+- **R** is lightly rolled, similar to Spanish.
+- **Double vowels (aa, ee, etc.)** are **longer** and often stressed.
+
+---
+
+::: {.callout-note title="Tip for Arabic Speakers"}
+If you know Arabic, Somali letters **C, Q, KH, and DH** will sound familiar to you. But even native Arabic speakers need to adjust their ear for **DH**, which is distinct from Arabic sounds.
+:::
