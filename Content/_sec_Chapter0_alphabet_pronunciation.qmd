@@ -1,4 +1,4 @@
-## Xarafka iyo Laxanka – Somali Alphabet and Pronunciation {#sec-chapter0-alphabet-pronunciation}
+## Xarafka iyo Laxanka – Somali Alphabet and Pronunciation {#sec-alphabet-and-pronunciation}
 
 The Somali alphabet uses Latin script with 21 consonants and 5 vowels. It was standardized in 1972 and is written **left to right** like English. Pronunciation is phonetic, meaning words are typically pronounced as they are spelled.
 

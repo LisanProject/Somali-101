@@ -1,7 +1,9 @@
 project:
   type: website
   output-dir: docs
-
+  render:
+    - _sec_Chapter0_alphabet_pronunciation.qmd
+    - _sec_Chapter1_Introductions.qmd
 website:
   title: "Lisan Project"
   navbar:
