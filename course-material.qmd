@@ -28,5 +28,6 @@ format:
 
 {{< include Content/_sec_intro.qmd >}}
 
-{{< include Content/_sec_Chapter1_Introductions.qmd >}}
+{{< include Content/_sec_Chapter0_alphabet_pronunciation.qmd >}}
 
+{{< include Content/_sec_Chapter1_Introductions.qmd >}}

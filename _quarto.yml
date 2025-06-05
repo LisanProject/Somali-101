@@ -20,9 +20,10 @@ website:
     style: floating
     collapse-level: 2   # Automatically collapses at level 2 headings
     contents:
-      - section: "1 Introduction"
-        contents:
-          - course-material.qmd
+      - href: _sec_Chapter0_alphabet_pronunciation.qmd
+        text: "0 Xarafka iyo Laxanka – Somali Alphabet and Pronunciation"
+      - href: _sec_Chapter1_Introductions.qmd
+        text: "1 Isbarasho – Introducing Yourself"
 
 format:
   html:
