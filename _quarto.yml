@@ -15,16 +15,7 @@ website:
       - icon: github
         href: https://github.com/LisanProject/Somali-101
         aria-label: GitHub
-
-  sidebar:
-    style: floating
-    collapse-level: 2
-    contents:
-      - href: Content/_sec_Chapter0_alphabet_pronunciation.qmd
-        text: "0 Xarafka iyo Laxanka – Somali Alphabet and Pronunciation"
-      - href: Content/_sec_Chapter1_Introductions.qmd
-        text: "1 Isbarasho – Introducing Yourself"
-
+        
 format:
   html:
     theme:
